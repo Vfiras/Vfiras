@@ -33,9 +33,9 @@
 
 I’m a 4th-year Mobile Engineering student passionate about building modern applications that combine mobile development, backend systems, and intelligent features.
 
-Over the last few years, I’ve worked on academic and personal projects involving Flutter, backend development, API integration, and software design. I enjoy transforming ideas into practical applications that are clean, scalable, and useful in real-world scenarios.
+Over the last few years, I’ve worked on academic and personal projects involving Flutter, backend development, API integration, and software design. I enjoy turning ideas into practical applications that are clean, scalable, and useful in real-world scenarios.
 
-My interests mainly revolve around:
+My main interests revolve around:
 - cross-platform mobile development with Flutter
 - backend engineering with Java, Spring Boot, and Symfony
 - AI integration and intelligent application features
@@ -76,7 +76,7 @@ I’m continuously learning through projects, certifications, and experimentatio
 ## 📌 Highlights
 
 ### 📱 Mobile Development
-I enjoy building cross-platform applications with Flutter, with a strong focus on clean UI, usability, and integration with backend services.
+I enjoy building cross-platform applications with Flutter, with a strong focus on clean UI, usability, and smooth integration with backend services.
 
 ### ⚙️ Backend Engineering
 I have worked with Java, Spring Boot, Symfony, and APIs to create backend logic, structure applications, and manage data reliably.
@@ -100,15 +100,20 @@ Through school and personal projects, I’ve strengthened my problem-solving, te
 ## 🔥 My Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vfiras&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=5" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=vfiras&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/Vfiras/Vfiras/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfiras&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=5" alt="Top languages" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=vfiras&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/Vfiras/Vfiras/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
+  <img src="https://raw.githubusercontent.com/Vfiras/Vfiras/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vfiras&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
